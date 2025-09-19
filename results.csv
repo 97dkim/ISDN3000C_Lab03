@@ -1,0 +1,11 @@
+image_name,detected_class,confidence_level
+frenchie1.jpeg,French Bulldog,0.9632
+leatherback_turtle.jpg,leatherback sea turtle,0.9612
+bassethound1.jpeg,Welsh Springer Spaniel,0.4059
+ostrich2.jpeg,ostrich,0.9993
+bassethound2.jpeg,Basset Hound,0.8763
+leatherback_turtle2.jpeg,leatherback sea turtle,0.9386
+platypus1.jpeg,beaver,0.4338
+platypus2.jpeg,platypus,0.9355
+ostrich.jpg,ostrich,0.9998
+frenchie2.jpeg,French Bulldog,0.9803
